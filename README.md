@@ -369,6 +369,4 @@ For questions or discussions about the project, feel free to reach out!
 
 ---
 
-**Last Updated:** February 2024  
-**Version:** 9.0
 
