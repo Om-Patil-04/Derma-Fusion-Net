@@ -1,0 +1,16 @@
+torch
+torchvision
+timm
+
+pandas
+numpy
+scikit-learn
+
+# Image Processing
+Pillow>=10.0.0
+
+tqdm>=4.65.0
+
+jupyter
+ipykernel
+
