@@ -1,4 +1,4 @@
-# Derma-Fusion-Net (v9)
+# Derma-Fusion-Net
 
 **Author:** Om Patil  
 **GitHub:** https://github.com/Om-Patil-04
